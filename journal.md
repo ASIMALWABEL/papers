@@ -25,3 +25,6 @@ As always, there are unanswered questions, for which we should definitely receiv
 
 # Figures
 This section contains the figures, because it's still a draft.
+
+# Acknowlegements
+We would like to thank our EU funding body. Possibly RIP. 
