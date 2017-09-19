@@ -15,3 +15,7 @@ We ran an atmospheric model to simluate formation of aerosol particles.
 
 # Instrumentation
 The Aerosol Mass Spectrometer is described in Allen et al 2003.
+
+# Conclusions
+We have made great inroads into understanding the mechanism of particle formation, referred to as question X in the introduction.
+As always, there are unanswered questions, for which we should definitely receive further funding.
