@@ -2,7 +2,7 @@
 Gerard Capes
 
 # Title
-Measurements of secondary organic aerosol
+Measurements of secondary organic aerosol over West Africa
 
 # Introduction
 Bloggs et al have researched into this area extensively but they haven't addressed question X (Bloggs et al 2012).
