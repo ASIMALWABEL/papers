@@ -12,3 +12,6 @@ We used an aerosol mass spectrometer to measure the chemical composition of aero
 
 # Simulations
 We ran an atmospheric model to simluate formation of aerosol particles.
+
+# Instrumentation
+The Aerosol Mass Spectrometer is described in Allen et al 2003.
